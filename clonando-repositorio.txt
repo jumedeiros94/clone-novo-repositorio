@@ -1,0 +1,3 @@
+Clonando o repositório
+
+"Primeiramente, é importante saber que a clonagem de um projeto lhe dará o benefício de criar um repositório Git na máquina local com todas as alterações feitas durante o seu desenvolvimento. Além de trazer todo o código, virá com seu próprio histórico de commits, com detalhes explicativos sobre as modificações que foram feitas. Outra vantagem é que você pode fazer alterações no repositório local e enviar para o repositório remoto.|"
